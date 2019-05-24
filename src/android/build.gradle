@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    compile 'com.github.refurbify:android-transcoder:5.0.1'
+    compile 'com.github.refurbify:android-transcoder:5.2.2'
 }
 
 android {
