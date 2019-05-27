@@ -5,7 +5,8 @@ repositories{
 }
 
 dependencies {
-    compile 'com.github.refurbify:android-transcoder:1.0.4'
+    compile 'net.ypresto.androidtranscoder:android-transcoder:0.3.0'
+    //compile 'com.github.refurbify:android-transcoder:1.0.4'
 }
 
 android {
